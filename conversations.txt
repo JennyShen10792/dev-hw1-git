@@ -1,2 +1,2 @@
 Jenny: My favorite programming language is Java.
-Christian: ÒWhat is your favorite programming language?Ó
+Christian: What is your favorite programming language?
